@@ -1,0 +1,35 @@
+[
+    {
+        "model": "shop.product",
+        "pk": 1,
+        "fields": {
+            "name": "Widget 1",
+            "price": "9.99",
+            "description": "A small widget.",
+            "created_at": "2023-07-28T12:00:00Z",
+            "updated_at": "2023-07-28T12:00:00Z"
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 2,
+        "fields": {
+            "name": "Smartphone",
+            "price": "299.99",
+            "description": "An advanced smartphone.",
+            "created_at": "2023-07-28T13:30:00Z",
+            "updated_at": "2023-07-28T13:30:00Z"
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 3,
+        "fields": {
+            "name": "T-Shirt",
+            "price": "19.99",
+            "description": "A comfortable t-shirt.",
+            "created_at": "2023-07-28T14:45:00Z",
+            "updated_at": "2023-07-28T14:45:00Z"
+        }
+    }
+]

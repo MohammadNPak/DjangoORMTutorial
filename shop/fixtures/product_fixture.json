@@ -1,0 +1,29 @@
+[
+    {
+        "model": "shop.product",
+        "pk": 1,
+        "fields": {
+            "name": "Widget 1",
+            "price": "9.99",
+            "description": "A small widget."
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 2,
+        "fields": {
+            "name": "Gadget 3000",
+            "price": "49.99",
+            "description": "An advanced gadget with multiple features."
+        }
+    },
+    {
+        "model": "shop.product",
+        "pk": 3,
+        "fields": {
+            "name": "SuperTool",
+            "price": "29.95",
+            "description": "The ultimate tool for your needs."
+        }
+    }
+]
